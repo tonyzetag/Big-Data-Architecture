@@ -45,4 +45,4 @@ El CSV resultado tendrá en principio las siguientes columnas:
 </table>
 
 # Diagrama
-![Diagrama](Diagráma de la práctica - BD Architecture.png)
+![Diagráma de la práctica - BD Architecture.png](https://github.com/tonyzetag/Big-Data-Architecture/blob/main/Diagr%C3%A1ma%20de%20la%20pr%C3%A1ctica%20-%20BD%20Architecture.png?raw=true)
